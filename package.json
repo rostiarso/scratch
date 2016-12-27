@@ -1,0 +1,15 @@
+{
+  "name": "hugotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hugo-lunr": "^0.0.4"
+  },
+  "devDependencies": {},
+"scripts": {
+    "index": "hugo-lunr"
+  },
+  "author": "",
+  "license": "ISC"
+}
